@@ -19,7 +19,7 @@ const Footer = ({}) => {
       <h1 className="text-sm text-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
         Made Using {" "}
         <Link href="https://github.com/chetanverma16">
-          <a className="underline underline-offset-1" target="_blank">Verma's Template</a>
+          <a className="underline underline-offset-1" target="_blank">Verma&apos;s Template</a>
         </Link>
       </h1>
     </>
